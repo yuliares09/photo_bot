@@ -1,0 +1,6 @@
+aiogram==3.0.0b7
+openpyxl
+python-dotenv
+pillow
+bcrypt
+aiosqlite
